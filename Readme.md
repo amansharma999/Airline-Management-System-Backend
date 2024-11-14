@@ -62,11 +62,11 @@ The Airline Management System is a feature-rich application developed to streaml
 
 Each microservice has its own detailed setup instructions. Click on the links below to view the setup guide for each service:
 
-- [Auth Service](./AuthService)
-- [Booking Service](./BookingService)
-- [Flights and Search Service](./FlightsAndSearchService)
-- [Reminder Service](./ReminderService)
-- [API Gateway](./APIGateway)
+- [Auth Service](https://github.com/amansharma999/Auth_Service)
+- [Booking Service](https://github.com/amansharma999/AirTicketBookingService)
+- [Flights and Search Service](https://github.com/amansharma999/FlightsAndSearchService)
+- [Reminder Service](https://github.com/amansharma999/ReminderService)
+- [API Gateway](https://github.com/amansharma999/API_Gateway)
 
 ## Microservices
 
