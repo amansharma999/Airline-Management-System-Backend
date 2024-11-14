@@ -1,0 +1,15 @@
+[submodule "API_Gateway"]
+	path = API_Gateway
+	url = https://github.com/amansharma999/API_Gateway
+[submodule "ReminderService"]
+	path = ReminderService
+	url = https://github.com/amansharma999/ReminderService
+[submodule "Auth_Service"]
+	path = Auth_Service
+	url = https://github.com/amansharma999/Auth_Service
+[submodule "AirTicketBookingService"]
+	path = AirTicketBookingService
+	url = https://github.com/amansharma999/AirTicketBookingService
+[submodule "FlightsAndSearchService"]
+	path = FlightsAndSearchService
+	url = https://github.com/amansharma999/FlightsAndSearchService
